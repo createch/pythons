@@ -1,0 +1,75 @@
+6
+
+23 9
+1 3
+V V S V V V V V V
+V V S V V V V V V
+E S S SW W E S S W
+E S E E E W S S S
+S S S V V V S S S
+S N N V V V N N NW
+N N E W W E N W S
+E E E NW E NE W W S
+S V V V V V V V N
+S V V V V V V V S
+N V V V V V V V S
+N V V V V V V V N
+S V V V V V V V S
+S V V V V V V V S
+N V V V V V V V N
+N E S SW E SE W S W
+E S S W W E W S S
+S S S V V V S S N
+N N N V V V N N N
+N E N E W E S W W
+E N E E E NE N W N
+V V V V V V N V V
+V V V V V V 0 V V
+
+4 4
+1 1
+N SW NE E
+S S S S
+E E E E
+N N N N
+
+5 5
+1 2
+SE SE NE E V
+S S S S N
+E E E E V
+N N N V 0
+V V V E S
+
+8 5
+1 1
+S V V V V 
+S V V V V 
+S S S S S 
+E E W W S 
+V V V V S 
+V V V V N 
+V V V V N 
+0 E E W W
+
+8 5
+1 1
+S V V V V 
+S V V V V 
+S S S S S 
+E E W W S 
+V V V V S 
+V V V V N 
+V V V V N 
+V 0 E W W
+
+8 5
+1 1
+0 V V V V 
+S V V V V 
+S S S S S 
+E E W W S 
+V V V V S 
+V V V V N 
+V V V V N 
+V E E W W
